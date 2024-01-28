@@ -13,5 +13,5 @@
 <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/docker.png" width="50" height="40">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/linux.png" width="60" height="60">
 
 ## DataBase
-<img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/mysql.png" width="50" height="40">
+<img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/mysql.png" width="50" height="40">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/sqlite.png" width="50" height="40">
 
