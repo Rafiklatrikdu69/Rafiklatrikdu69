@@ -8,6 +8,6 @@
 
 ## Programmation :
 <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/c.png" width="50" height="50">
-<img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/c#.png" width="50" height="50">
+<img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/csharp.png" width="50" height="50">
 <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/python.png" width="50" height="50">
 
