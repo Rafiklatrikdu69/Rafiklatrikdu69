@@ -1,6 +1,6 @@
 ## Hi everyone 
 ###  my name is Rafik I'm 19 years old, I have loved computers since I was little, that's why I develop both personal and professional projects
-## languages used : 
+## Languages used : 
 <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/html.png" width="50" height="50" style="border-radius:50%">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/css.png" width="50" height="50">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/scss.jpg" width="50" height="50">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/js.png" width="50" height="50">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/php.png" width="50" height="50" style="border-radius:50%">
 
 ## Frameworks : 
@@ -11,4 +11,7 @@
 
 ## Utils :
 <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/docker.png" width="50" height="40">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/linux.png" width="60" height="60">
+
+## DataBase
+<img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/mysql.png" width="50" height="40">
 
