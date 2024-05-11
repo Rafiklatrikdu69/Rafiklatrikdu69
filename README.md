@@ -18,5 +18,3 @@
 <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/mysql.png" width="50" height="40">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/sqlite.png" width="50" height="30">
 
 
-![Rafiklatrikdu69's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiklatrikdu69&theme=nord&show_icons=true&hide_border=false&layout=compact)
-
