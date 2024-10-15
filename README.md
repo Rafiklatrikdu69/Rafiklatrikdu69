@@ -15,4 +15,4 @@
 ## System
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 ## In progress
-[![My Skills](https://skillicons.dev/icons?i=kuburnetes,nuxtjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,nuxtjs)](https://skillicons.dev)
