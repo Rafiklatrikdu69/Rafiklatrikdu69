@@ -3,8 +3,7 @@
 ## Languages used : 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ## Frameworks : 
-<img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/angular.png" width="50" height="50">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/nest.png" width="50" height="50">
-<img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/laravel.png" width="50" height="50">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/symfony.png" width="50" height="50">  
+[![My Skills](https://skillicons.dev/icons?i=vue,angular,symphony)](https://skillicons.dev)
 
 
 ## Programmation :
