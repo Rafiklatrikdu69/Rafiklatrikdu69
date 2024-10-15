@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
 ## Frameworks : 
 [![My Skills](https://skillicons.dev/icons?i=angular,nestjs,symfony,laravel,dotnet,spring,vue)](https://skillicons.dev)
-## Programmation :
+## Programming :
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp)](https://skillicons.dev)
 ## Others Languages:
 [![My Skills](https://skillicons.dev/icons?i=php,kotlin,java)](https://skillicons.dev)
