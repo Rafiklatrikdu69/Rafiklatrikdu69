@@ -3,12 +3,14 @@
 ## Languages used : 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
 ## Frameworks : 
-[![My Skills](https://skillicons.dev/icons?i=vue,angular,nestjs,symfony,laravel,dotnet)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=angular,nestjs,symfony,laravel,dotnet,spring,vue)](https://skillicons.dev)
 ## Programmation :
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp)](https://skillicons.dev)
+## Others Languages:
+[![My Skills](https://skillicons.dev/icons?i=php,kotlin,java)](https://skillicons.dev)
 ## Utils :
 [![My Skills](https://skillicons.dev/icons?i=git,docker,aws,gcp)](https://skillicons.dev)
 ## Data base
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
+## System
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
