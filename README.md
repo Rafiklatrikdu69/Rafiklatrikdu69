@@ -1,7 +1,7 @@
 ## Hi everyone 
 ###  My name is Rafik and I have been passionate about IT for years. My passion for technology has led me to develop both personal and professional projects.
 ## Languages used : 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
 ## Frameworks : 
 [![My Skills](https://skillicons.dev/icons?i=vue,angular,nestjs,symfony,laravel,dotnet)](https://skillicons.dev)
 
