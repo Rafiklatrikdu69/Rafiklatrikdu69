@@ -7,8 +7,7 @@
 
 
 ## Programmation :
-<img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/c.png" width="50" height="50">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/csharp.png" width="50" height="50">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/python.png" width="50" height="50">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/java.png" width="50" height="60">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/c++.png" width="50" height="50">
-
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp)](https://skillicons.dev)
 ## Utils :
 <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/docker.png" width="50" height="40">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/linux.png" width="60" height="60">
 
