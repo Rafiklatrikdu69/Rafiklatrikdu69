@@ -9,9 +9,6 @@
 ## Programmation :
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp)](https://skillicons.dev)
 ## Utils :
-<img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/docker.png" width="50" height="40">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/linux.png" width="60" height="60">
-
-## DataBase
-<img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/mysql.png" width="50" height="40">  <img src="https://github.com/Rafiklatrikdu69/Rafiklatrikdu69/blob/main/sqlite.png" width="50" height="30">
-
-
+[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,gcp)](https://skillicons.dev)
+## Data base
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
