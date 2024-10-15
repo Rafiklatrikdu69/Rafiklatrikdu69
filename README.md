@@ -3,7 +3,7 @@
 ## Languages used : 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ## Frameworks : 
-[![My Skills](https://skillicons.dev/icons?i=vue,angular,symfony,laravel,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,angular,nestjs,symfony,laravel,dotnet)](https://skillicons.dev)
 
 
 ## Programmation :
