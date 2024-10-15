@@ -1,5 +1,5 @@
 ## Hi everyone 
-###  My name is Rafik I'm 20 years old, I have loved computers since I was little, that's why I develop both personal and professional projects.
+###  My name is Rafik and I have been passionate about IT for years. My passion for technology has led me to develop both personal and professional projects.
 ## Languages used : 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ## Frameworks : 
