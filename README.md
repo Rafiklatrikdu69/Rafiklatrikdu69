@@ -16,3 +16,4 @@
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 ## In progress
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,aws,gcp,nuxtjs)](https://skillicons.dev)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rafiklatrikdu69&theme=default&hide_border=true)
