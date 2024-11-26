@@ -1,5 +1,8 @@
 ## Hi everyone  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" alt="Hear-No-Evil Monkey" width="25" height="25" />
-###  My name is Rafik and I have been passionate about IT for years. My passion for technology has led me to develop both personal and professional projects.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA0D2&width=435&lines=My+name+is+Rafik+!)](https://git.io/typing-svg)
+
+### I have been passionate about IT for years. My passion for technology has led me to develop both personal and professional projects.
 ## Languages used : 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ## Frameworks : 
