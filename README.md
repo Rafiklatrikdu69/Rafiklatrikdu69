@@ -10,15 +10,15 @@
 ## Programming :
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp)](https://skillicons.dev)
 ## Others Languages:
-[![My Skills](https://skillicons.dev/icons?i=php,kotlin,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,java)](https://skillicons.dev)
 ## Utils :
 [![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
 ## Data base :
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 ## System :
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 ## In progress
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,aws,gcp,nuxtjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,aws,gcp,nuxtjs,spring)](https://skillicons.dev)
 
 
 ## Stats : 
