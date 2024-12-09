@@ -8,7 +8,7 @@
 ## Frameworks : 
 [![My Skills](https://skillicons.dev/icons?i=angular,nestjs)](https://skillicons.dev)
 ## Programming :
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,py)](https://skillicons.dev)
 ## Others Languages:
 [![My Skills](https://skillicons.dev/icons?i=php,java)](https://skillicons.dev)
 ## Utils :
