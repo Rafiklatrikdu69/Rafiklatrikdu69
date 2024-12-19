@@ -4,7 +4,7 @@
 
 ### I have been passionate about IT for years. My passion for technology has led me to develop both personal and professional projects.
 ## Languages used : 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,theme=light)](https://skillicons.dev)
 ## Frameworks : 
 [![My Skills](https://skillicons.dev/icons?i=angular,nestjs)](https://skillicons.dev)
 ## Programming :
