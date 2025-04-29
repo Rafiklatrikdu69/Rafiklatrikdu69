@@ -58,7 +58,17 @@
 
 ### 📊 GitHub Stats & Trophies
 
+<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rafiklatrikdu69&theme=onedark&column=4)](https://github.com/Rafiklatrikdu69/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiklatrikdu69&layout=compact&theme=radical)](https://github.com/Rafiklatrikdu69/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafiklatrikdu69&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Rafik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafiklatrikdu69&show_icons=true&theme=gruvbox)](https://github.com/Rafiklatrikdu69/github-readme-stats)
+
+</div>
 
 ---
 
