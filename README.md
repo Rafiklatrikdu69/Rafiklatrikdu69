@@ -6,19 +6,19 @@
 ## Languages used : 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ## Frameworks : 
-[![My Skills](https://skillicons.dev/icons?i=angular,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,spring,nestjs,nuxtjs)](https://skillicons.dev)
 ## Programming :
 [![My Skills](https://skillicons.dev/icons?i=c,cs,py)](https://skillicons.dev)
 ## Others Languages:
 [![My Skills](https://skillicons.dev/icons?i=php,java)](https://skillicons.dev)
 ## Utils :
-[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes)](https://skillicons.dev)
 ## Data base :
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 ## System :
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 ## In progress
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,aws,gcp,nuxtjs,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 
 
 ## Stats : 
