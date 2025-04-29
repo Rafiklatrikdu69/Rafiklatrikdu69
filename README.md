@@ -1,28 +1,67 @@
-## Hi everyone  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" alt="Hear-No-Evil Monkey" width="25" height="25" />
+<h1 align="center">Hi everyone 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA0D2&width=435&lines=My+name+is+Rafik+!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" alt="Hear-No-Evil Monkey" width="35" height="35" />
+</p>
 
-### I have been passionate about IT for years. My passion for technology has led me to develop both personal and professional projects.
-## Languages used : 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA0D2&width=435&lines=My+name+is+Rafik+!" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+🎯 I have been passionate about IT for years. My curiosity and love for technology have driven me to work on both **personal** and **professional** projects.
+
+🧠 Always learning something new, always building something cool.
+
+🌐 [Check out my portfolio](https://rafik-bouchenna.fr/)
+
+---
+
+### 🧰 Languages
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-## Frameworks : 
+
+### ⚙️ Frameworks
+
 [![My Skills](https://skillicons.dev/icons?i=angular,spring,nestjs,nuxtjs)](https://skillicons.dev)
-## Programming :
+
+### 💻 Programming Languages
+
 [![My Skills](https://skillicons.dev/icons?i=c,cs,py)](https://skillicons.dev)
-## Others Languages:
+
+### 🛠️ Other Languages
+
 [![My Skills](https://skillicons.dev/icons?i=php,java)](https://skillicons.dev)
-## Utils :
+
+### 🧪 Tools & Utilities
+
 [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes)](https://skillicons.dev)
-## Data base :
+
+### 🗃️ Databases
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-## System :
+
+### 🖥️ Systems
+
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-## In progress
+
+### 🧩 Currently Learning
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 
+---
 
-## Stats : 
+### 📊 GitHub Stats & Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rafiklatrikdu69)](https://github.com/Rafiklatrikdu69/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rafiklatrikdu69&theme=onedark&column=4)](https://github.com/Rafiklatrikdu69/github-profile-trophy)
 
-[My Portfolio](https://rafik-bouchenna.fr/)
+---
+
+<div align="center">
+  <strong>✨ Let's connect and build something amazing together!</strong>
+</div>
